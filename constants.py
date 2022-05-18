@@ -1,1 +1,2 @@
-API_KEY = "5107765774:AAEWBHKfPGEsuTEdJcDVVyI4TrQE8-Yh7rg"
+API_KEY = "TOKEN"
+#subistitua TOKEN pelo token do seu bot
